@@ -1,0 +1,15 @@
+C:\Users\Wissen\source\repos\NT-DBFirst\DBFirst-ProductList\obj\Debug\DBFirst_ProductList.Form1.resources
+C:\Users\Wissen\source\repos\NT-DBFirst\DBFirst-ProductList\obj\Debug\DBFirst_ProductList.Properties.Resources.resources
+C:\Users\Wissen\source\repos\NT-DBFirst\DBFirst-ProductList\obj\Debug\DBFirst-ProductList.csproj.GenerateResource.cache
+C:\Users\Wissen\source\repos\NT-DBFirst\DBFirst-ProductList\obj\Debug\DBFirst-ProductList.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\source\repos\NT-DBFirst\DBFirst-ProductList\bin\Debug\DBFirst-ProductList.exe.config
+C:\Users\Wissen\source\repos\NT-DBFirst\DBFirst-ProductList\bin\Debug\DBFirst-ProductList.exe
+C:\Users\Wissen\source\repos\NT-DBFirst\DBFirst-ProductList\bin\Debug\DBFirst-ProductList.pdb
+C:\Users\Wissen\source\repos\NT-DBFirst\DBFirst-ProductList\bin\Debug\EntityFramework.dll
+C:\Users\Wissen\source\repos\NT-DBFirst\DBFirst-ProductList\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wissen\source\repos\NT-DBFirst\DBFirst-ProductList\bin\Debug\EntityFramework.xml
+C:\Users\Wissen\source\repos\NT-DBFirst\DBFirst-ProductList\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wissen\source\repos\NT-DBFirst\DBFirst-ProductList\obj\Debug\DBFirst-ProductList.csprojAssemblyReference.cache
+C:\Users\Wissen\source\repos\NT-DBFirst\DBFirst-ProductList\obj\Debug\DBFirst-ProductList.csproj.CopyComplete
+C:\Users\Wissen\source\repos\NT-DBFirst\DBFirst-ProductList\obj\Debug\DBFirst-ProductList.exe
+C:\Users\Wissen\source\repos\NT-DBFirst\DBFirst-ProductList\obj\Debug\DBFirst-ProductList.pdb
